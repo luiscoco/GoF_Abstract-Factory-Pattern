@@ -128,7 +128,9 @@ class MacOSUIComponentFactory : IUIComponentFactory
 }
 ```
 
+## How to setup Github actions
 
+![Csharp Github actions](https://github.com/luiscoco/GoF_Csharp-3.Abstract-Factory-Pattern/assets/32194879/0acf4913-fad4-4fcf-a4ed-91c3d201d173)
 
 
 
